@@ -6,11 +6,11 @@ const Footer = () => {
     <div className="footer-container">
       <div className="footer-section">
         <h3>OFFICE CONTACTS</h3>
-        <p>+254702648140<br />
+        <p>TEL: Mobile: +254702648140<br />
           <br />
           +254 725377929<br />
           <br />
-          +254 759236928<br />
+          +254 725377929<br />
           <br />
           <a href="mailto:turinsbylatech@gmail.com">turinsbylatech@gmail.com</a>
         </p>
