@@ -10,7 +10,7 @@ const Footer = () => {
           <br />
           +254 725377929<br />
           <br />
-          +254 725377929<br />
+          +254 759236928<br />
           <br />
           <a href="mailto:turinsbylatech@gmail.com">turinsbylatech@gmail.com</a>
         </p>
