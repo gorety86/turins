@@ -17,7 +17,7 @@ const AboutUs = () => {
           <p>not only fulfill their needs today but offer them a competitive advantage tomorrow. <p/>
           <p>We started with the aim of providing a world-class service at an affordable price without</p>
           <p> compromising strength and reliability. We are now recognized as one of the leading general supply,</p>
-          <p>hardware maintenance, Web, SMS & Application solution providers in the industry.</p>
+          <p>hardware/software maintenance, Web, SMS & Application solution providers in the industry.</p>
         </p>
         </p>
         <p>
