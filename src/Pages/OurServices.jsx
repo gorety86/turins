@@ -1,15 +1,10 @@
 import React from 'react';
 
-// const Card = ({ title, content }) => (
-//   <div className="card">
-//     <h2>{title}</h2>
-//     <p>{content}</p>
-//   </div>
-// );
 const OurServices = () => (
   <div className="app">
-    <h1>Our Services</h1>
+    
     <div className="card-container">
+    <h1>Our Services</h1>
     <h3 class="card-title">
     VISION:
   </h3>

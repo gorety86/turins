@@ -1,0 +1,15 @@
+.OurServices {
+    background-image: url('https://cdn.wallpapersafari.com/92/9/ZivjwD.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    min-height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .card-container {
+    align-items: center;
+  }
+  
