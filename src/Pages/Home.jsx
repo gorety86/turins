@@ -48,7 +48,7 @@ export default function Home() {
           </div>
           <div>
             <img
-              src="https://www.landmarkoffice.co.uk/wp-content/uploads/2017/11/Office-Life-ICT-Table-ict-suite9-1-560x420.jpg"
+              src="https://media.istockphoto.com/id/1201166649/photo/office-responsive-devices-web-design-website.jpg?s=612x612&w=0&k=20&c=w1zX61Nw0p3aguqUj9FFrUV9hl8l67zut_ZhdnB9p-E="
               alt="Slide 3"
               style={{ width: '100%', maxHeight: '600px', objectFit: 'cover' }}
             />
@@ -65,7 +65,7 @@ export default function Home() {
 
       <div className='content-container'>
 
-        <h2 style={{ textAlign: 'center' }}>WHY TURINS BYLATECH TECHNOLOGIES LTD?</h2>
+        <h2 style={{ textAlign: 'center' }}>WHY TURINS BYLATECH TECHNOLOGIES?</h2>
         <p style={{ textAlign: 'center', maxWidth: '800px', margin: '0 auto' }}>
           Kenya is fast emerging as a key destination of the IT sector. Turins is a new generation company. In this scenario, TURINS BYLATECH TECHNOLOGIES has experienced dedicated teams, combining business and industry knowledge with technology, who work closely with clients to produce comprehensive products.
         </p>
