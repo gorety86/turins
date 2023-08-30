@@ -19,8 +19,3 @@
   gap: 20px;
   align-items: center;
 }
-
-.about-us-content p {
-  margin: 0; /* Remove default margin */
-  padding-bottom: 0; /* Add spacing between paragraphs */
-}
