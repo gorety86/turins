@@ -76,8 +76,8 @@ export default function Home() {
             </h4>
               <ul style={{ listStyleType: 'disc', paddingLeft: '20px' }}>
                 <li>TURINS BYLATECH TECHNOLOGIES carries out customer requirements through a sequence of well-defined steps.</li>
-                <li>Avoids risks.</li>
-                <li>Following conceptual integrity.</li>
+                <li>Avoid the Risk.</li>
+                <li>Following Conceptual integrity.</li>
                 <li>Process control.</li>
                 <li>Inspection and testing.</li>
                 <li>Product cost and quality.</li>
