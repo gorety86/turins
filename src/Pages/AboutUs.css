@@ -1,0 +1,26 @@
+.about-us {
+  background-image: url('https://cdn.wallpapersafari.com/23/58/og0Is9.png');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  min-height: 500px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.about-us-content {
+  padding: 20px;
+  border-radius: 10px;
+  text-align: center;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  align-items: center;
+}
+
+.about-us-content p {
+  margin: 0; /* Remove default margin */
+  padding-bottom: 0; /* Add spacing between paragraphs */
+}
