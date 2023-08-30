@@ -10,8 +10,12 @@ const OurServices = () => (
   <div className="app">
     <h1>Our Services</h1>
     <div className="card-container">
+    <h3 class="card-title">
+    VISION:
+  </h3>
+    <p>To be at the forefront of all our services and be respected for setting the highest standards of professionalism and quality of services.</p>
   <h3 class="card-title">
-    Services:
+    SERVICES:
   </h3>
   <ul class="card-list">
     <li>General supply.</li>
@@ -38,7 +42,7 @@ const OurServices = () => (
     <li>Bulk sms services.</li>
   </ul>
   <h3 class="card-title">
-    Web Designing:
+    WEB DESIGNING:
   </h3>
   <ul class="card-list">
     <li>User Interface Design.</li>
