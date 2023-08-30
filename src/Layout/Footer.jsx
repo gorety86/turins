@@ -16,7 +16,7 @@ const Footer = () => {
         </p>
       </div>
         <div className="copyright-content">
-          <p className="left-copyright">&copy; Turins Bylatech Ltd.</p>
+          <p className="left-copyright">&copy; Turins Bylatech Technologies Ltd.</p>
           <p className="left-copyright">&copy; 2023</p>
           <p className="right-copyright">&copy; All Rights Reserved</p>
         </div>
