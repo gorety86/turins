@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import logoImage from '../Images/logoImage.avif' 
+import logoImage from '../Images/logoimage.png' 
 
 const Navbar = () => {
   const navStyle = {
