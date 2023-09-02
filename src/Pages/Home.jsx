@@ -35,7 +35,7 @@ export default function LandingPage() {
         <Slider {...settings}>
           <div>
             <img
-              src="https://images.unsplash.com/photo-1531297484001-80022131f5a1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8dGVjaHxlbnwwfHwwfHx8MA%3D%3D&w=1000&q=80"
+              src="https://xplormedia.com/wp-content/uploads/2022/02/Website-Development-Company.jpg"
               alt="Slide 1"
               style={{ width: '100%', maxHeight: '800px', objectFit: 'cover' }}
             />
@@ -49,7 +49,7 @@ export default function LandingPage() {
           </div>
           <div>
             <img
-              src="https://images.unsplash.com/photo-1483058712412-4245e9b90334?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80"
+              src="https://i.pinimg.com/originals/30/f3/ba/30f3ba97f5c698f6fd88bb9b3c33aa64.jpg"
               alt="Slide 3"
               style={{ width: '100%', maxHeight: '800px', objectFit: 'cover' }}
             />
