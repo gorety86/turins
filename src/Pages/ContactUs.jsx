@@ -51,7 +51,7 @@ const ContactUs = () => {
         <div className="contact-item">
           <FontAwesomeIcon icon={faEnvelope} className="icon" />
           <p>
-            <span className="contact-label">Email:</span> <a href="turinsbylatech@gmail.com">turinsbylatech@gmail.com</a><br />
+            <span className="contact-label">Email:</span> <a href="mailto:turinsbylatech@gmail.com">turinsbylatech@gmail.com</a><br />
           </p>
         </div>
       </div>
