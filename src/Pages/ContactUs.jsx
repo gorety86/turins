@@ -4,39 +4,39 @@ import { faUser, faEnvelope } from '@fortawesome/free-solid-svg-icons';
 import './ContactUs.css';
 
 const ContactUs = () => {
-  const [formData, setFormData] = useState({
-    name: '',
-    email: '',
-    message: ''
-  });
+  // const [formData, setFormData] = useState({
+  //   name: '',
+  //   email: '',
+  //   message: ''
+  // });
 
-  const handleSubmit = async (e) => {
-    e.preventDefault();
+  // const handleSubmit = async (e) => {
+  //   e.preventDefault();
 
-    // Send form data to backend
-    try {
-      const response = await fetch('/api/contact', {  // Replace with your actual API endpoint
-        method: 'POST',
-        headers: {
-          'Content-Type': 'application/json'
-        },
-        body: JSON.stringify(formData)
-      });
+  //   // Send form data to backend
+  //   try {
+  //     const response = await fetch('/api/contact', {  // Replace with your actual API endpoint
+  //       method: 'POST',
+  //       headers: {
+  //         'Content-Type': 'application/json'
+  //       },
+  //       body: JSON.stringify(formData)
+  //     });
 
-      // Handle response as needed
-      console.log(response);
-    } catch (error) {
-      console.error('Error sending message:', error);
-    }
-  };
+  //     // Handle response as needed
+  //     console.log(response);
+  //   } catch (error) {
+  //     console.error('Error sending message:', error);
+  //   }
+  // };
 
-  const handleInputChange = (e) => {
-    const { name, value } = e.target;
-    setFormData({
-      ...formData,
-      [name]: value
-    });
-  };
+  // const handleInputChange = (e) => {
+  //   const { name, value } = e.target;
+  //   setFormData({
+  //     ...formData,
+  //     [name]: value
+  //   });
+  // };
 
   return (
     <div className="contact-us-container">
@@ -55,7 +55,7 @@ const ContactUs = () => {
           </p>
         </div>
       </div>
-      <div className="contact-form">
+      {/* <div className="contact-form">
         <h3 className="form-title">Contact Me</h3>
         <form onSubmit={handleSubmit}>
           <div className="form-group">
@@ -72,7 +72,7 @@ const ContactUs = () => {
           </div>
           <button className="send-button" type="submit">SEND</button>
         </form>
-      </div>
+      </div> */}
     </div>
   );
 }
