@@ -37,28 +37,28 @@ export default function LandingPage() {
             <img
               src="https://xplormedia.com/wp-content/uploads/2022/02/Website-Development-Company.jpg"
               alt="Slide 1"
-              style={{ width: '100%', maxHeight: '800px', objectFit: 'cover' }}
+              style={{ width: '100%', maxHeight: '400px', objectFit: 'cover' }}
             />
           </div>
           <div>
             <img
               src="https://t3.ftcdn.net/jpg/01/66/72/88/360_F_166728814_vCfWKOcbU7zhSqZI31KyI9nXzDzqAHNv.jpg"
               alt="Slide 2"
-              style={{ width: '100%', maxHeight: '800px', objectFit: 'cover' }}
+              style={{ width: '100%', maxHeight: '400px', objectFit: 'cover' }}
             />
           </div>
           <div>
             <img
               src="https://i.pinimg.com/originals/30/f3/ba/30f3ba97f5c698f6fd88bb9b3c33aa64.jpg"
               alt="Slide 3"
-              style={{ width: '100%', maxHeight: '800px', objectFit: 'cover' }}
+              style={{ width: '100%', maxHeight: '400px', objectFit: 'cover' }}
             />
           </div>
           <div>
             <img
               src="https://images.unsplash.com/photo-1484417894907-623942c8ee29?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1332&q=80"
               alt="Slide 4"
-              style={{ width: '100%', maxHeight: '800px', objectFit: 'cover' }}
+              style={{ width: '100%', maxHeight: '400px', objectFit: 'cover' }}
             />
           </div>
         </Slider>

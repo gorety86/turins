@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import logoImage from '../Images/logoimage.png' 
+import logoImage from '../Images/logoImage.jpg' 
 
 const Navbar = () => {
   const navStyle = {
@@ -22,7 +22,7 @@ const Navbar = () => {
     <nav style={navStyle}>
        {/* Logo */}
        <div>
-        <img src={logoImage} alt="Logo" style={{ width: '50px', height: '50px' }} />
+        <img src={logoImage} alt="Logo" style={{ width: '150px', height: '90px' }} />
       </div>
       <ul style={{ listStyleType: 'none', display: 'flex', padding: 0 }}>
         <li className="nav-item">
