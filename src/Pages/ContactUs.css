@@ -1,0 +1,73 @@
+.contact-us-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    padding: 50px; /* Increase padding for more spacing */
+    background-image: url('https://images.unsplash.com/photo-1478760329108-5c3ed9d495a0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1974&q=80');
+    background-size: cover;
+    background-position: center;}
+  
+  .contact-details {
+    flex: 1;
+    padding: 20px;
+    text-align: center;
+    color: white;
+  }
+  
+  .contact-item .icon {
+    color: maroon; /* A vibrant orange color */
+    margin-right: 10px;
+  }
+  
+  .contact-details h3 {
+    color: maroon;
+    text-decoration: underline;
+  }
+  
+  .contact-form {
+    flex: 1;
+    padding: 20px;
+    text-align: center;
+    text-align: left;
+    color: white;
+  }
+  
+  .form-title {
+    color: maroon;
+    text-decoration: underline;
+  }
+  
+  .form-group {
+    margin-bottom: 20px; 
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 8px; /* Slightly reduce label spacing */
+    font-weight: bold; /* Make labels more prominent */
+  }
+  
+  input,
+  textarea {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 8px; /* Slightly rounded corners */
+    font-size: 16px; /* Increase font size for better readability */
+  }
+  
+  .send-button {
+    background-color: maroon;
+    color: white;
+    padding: 12px 24px; /* Increase padding for the button */
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background-color 0.3s ease-in-out; 
+    margin-bottom: 110px;
+  }
+  
+  .send-button:hover {
+    background-color: maroon; 
+  }
