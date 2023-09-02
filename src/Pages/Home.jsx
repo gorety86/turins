@@ -35,7 +35,7 @@ export default function LandingPage() {
         <Slider {...settings}>
           <div>
             <img
-              src="https://images.pexels.com/photos/572056/pexels-photo-572056.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+              src="https://images.unsplash.com/photo-1531297484001-80022131f5a1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8dGVjaHxlbnwwfHwwfHx8MA%3D%3D&w=1000&q=80"
               alt="Slide 1"
               style={{ width: '100%', maxHeight: '800px', objectFit: 'cover' }}
             />
